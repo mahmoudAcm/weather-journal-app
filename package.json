@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "description": "This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.",
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  },
+  "author": "Mahmoud Tarek"
+}
